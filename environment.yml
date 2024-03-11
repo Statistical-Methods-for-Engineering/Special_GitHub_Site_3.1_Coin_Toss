@@ -9,7 +9,6 @@ dependencies:
   - seaborn
   - scipy
   - statsmodels
-  - voila
   - Pillow
   - ipywidgets
   - IPython
