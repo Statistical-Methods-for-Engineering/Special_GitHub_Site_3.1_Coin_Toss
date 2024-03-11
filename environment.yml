@@ -11,3 +11,5 @@ dependencies:
   - statsmodels
   - voila
   - ipywidgets
+  - ipython
+  - PIL
