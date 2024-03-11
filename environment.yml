@@ -12,4 +12,4 @@ dependencies:
   - voila
   - ipywidgets
   - ipython
-  - PIL
+  - image
