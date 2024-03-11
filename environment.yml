@@ -10,6 +10,3 @@ dependencies:
   - scipy
   - statsmodels
   - voila
-  - ipywidgets
-  - ipython
-  - image
