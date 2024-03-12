@@ -7,7 +7,7 @@ The course will be using JupyterLab Notebooks to support statistical concepts fo
 
 | Voilà | JupyterLab |
 | :-----------------------: | :---------------------: |
-| [![voila-binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/voila/HEAD?urlpath=voila%2Frender%2Findex.ipynb)| [![jupyterlab-binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/voila/HEAD?urlpath=lab%2Ftree%2Findex.ipynb) |
+| [![voila-binder]([https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/voila/HEAD?urlpath=voila%2Frender%2Findex.ipynb](https://notebooks.gesis.org/binder/jupyter/user/statistical-met-in_toss_3.1.1.1-sp97a2py/voila/render/Chapter_3.1.1_Coin_Toss_1.ipynb?token=u2n0m8YcREqBvqyBRWbOFw))| [![jupyterlab-binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/voila/HEAD?urlpath=lab%2Ftree%2Findex.ipynb) |
 
 Click on the BinderHub launch here for a cloud service that allows users to share reproducible and interactive computing environments from code repositories. 
 
